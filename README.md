@@ -2,4 +2,4 @@
 
 HTML 태그
 <br>
-시멘트 태그 : <header> <nav> <aside> <section> <footer>
+시멘트 태그 : header nav aside section footer
